@@ -1,16 +1,28 @@
-## Hi there 👋
+# Jang Hyeon
 
-<!--
-**semibj1234-debug/semibj1234-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate researcher interested in **Spatial Statistics**, **Bayesian Statistics**, and their applications to data science.
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Spatial Statistics
+- Bayesian Statistics
+- Machine Learning
+
+## Projects
+
+### PD-Linear
+**Spatial Representation for Sparse & Irregular Spatial Interpolation**
+
+Research on simplifying spatial interpolation through spatial decomposition and representation, with a focus on robustness under sparse and non-uniform observations.
+
+### Solar Irradiance Prediction
+Machine learning-based spatial feature engineering for solar irradiance interpolation.
+
+### Wind Power Forecasting
+Spatio-temporal feature engineering and machine learning for wind power forecasting.
+
+## Tech Stack
+
+**Languages:** Python · R · SQL  
+**ML / Data:** PyTorch · scikit-learn · pandas · NumPy · LightGBM  
+**Tools:** Git · Linux · MLflow
